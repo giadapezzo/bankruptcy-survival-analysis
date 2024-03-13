@@ -15,7 +15,7 @@ df2 %>% mutate(status = if_else(status == "true", 'Failed', 'Not Failed'))  %>%
   tbl_summary(
     by = status, # split table by group
     include = c(size, distance, nans),
-    label = list(nans ~ "Missing or abnormal values of ateco"),
+    label = list(nans ~ "Missing or abnormal ATECO"),
     missing = "ifany", # don't list missing data separately
     perc = 'row',
     statistic = list(
