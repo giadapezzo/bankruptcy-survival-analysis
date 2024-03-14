@@ -35,3 +35,8 @@ Dependencies: Lists required libraries and dependencies for replicating the envi
 - Run the Jupyter notebooks in sequential order to execute data preprocessing, model training, and evaluation. Start with preparation for data cleaning, followed by descriptive analysis, and proceed accordingly.
 
 - Refer to the documentation for detailed insights into methodology, results, and interpretation.
+
+
+### Contributing
+
+This project was a collaborative effort between myself and my colleague @gsarrco. Contributions and feedback from both contributors were instrumental in its completion.
