@@ -6,7 +6,7 @@ The project focuses on predicting the likelihood of bankruptcy for Italian compa
 
 This project is primarily for visualization purposes. Unfortunately, we cannot publish the dataset due to privacy concerns. If you have any questions or feedback, feel free to reach out to us.
 
-This project was a collaborative effort between myself and my colleague @gsarrco. Contributions and feedback from both contributors were instrumental in its completion.
+This project was a collaborative effort between myself and my colleague [Giacomo Sarrocco](https://github.com/gsarrco). Contributions and feedback from both contributors were instrumental in its completion.
 
 
 ### Data Source
