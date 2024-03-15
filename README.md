@@ -1,12 +1,10 @@
 ## Bankruptcy Forecasting of Italian Companies using Survival Analysis Models
 
-This repository contains the code and documentation for a project completed as part of the master course in Models and Technology for the Financial Industry, within the Master's Degree in Data Analytics for Business and Society at Ca' Foscari University of Venice.
+This repository contains the code and documentation for a project completed as part of the master course in Models and Technology for the Financial Industry, within the Master's Degree in Data Analytics for Business and Society at Ca' Foscari University of Venice. This project was a collaborative effort between myself and my colleague [Giacomo Sarrocco](https://github.com/gsarrco). Contributions and feedback from both contributors were instrumental in its completion.
 
 The project focuses on predicting the likelihood of bankruptcy for Italian companies using survival analysis models, specifically targeting the time-to-default prediction. Various models, including Cox proportional hazards, Cox with penalized models (elasticnet), survival trees, and survival random forest, were employed to perform the forecasting.
 
 This project is primarily for visualization purposes. Unfortunately, we cannot publish the dataset due to privacy concerns. If you have any questions or feedback, feel free to reach out to us.
-
-This project was a collaborative effort between myself and my colleague [Giacomo Sarrocco](https://github.com/gsarrco). Contributions and feedback from both contributors were instrumental in its completion.
 
 
 ### Data Source
