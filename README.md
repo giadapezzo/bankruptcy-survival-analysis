@@ -4,6 +4,10 @@ This repository contains the code and documentation for a project completed as p
 
 The project focuses on predicting the likelihood of bankruptcy for Italian companies using survival analysis models, specifically targeting the time-to-default prediction. Various models, including Cox proportional hazards, Cox with penalized models (elasticnet), survival trees, and survival random forest, were employed to perform the forecasting.
 
+This project is primarily for visualization purposes. Unfortunately, we cannot publish the dataset due to privacy concerns. If you have any questions or feedback, feel free to reach out to us.
+
+This project was a collaborative effort between myself and my colleague @gsarrco. Contributions and feedback from both contributors were instrumental in its completion.
+
 
 ### Data Source
 
@@ -19,16 +23,6 @@ The time frame for the study spans from 2016 to 2020. The assumption of default 
 
 Code: Contains Python scripts implementing survival analysis models and data preprocessing steps. Notebooks are numbered sequentially to guide users through the process (e.g., 1-preparation.ipynb, 2-descriptive.ipynb).
 
-Data: Includes datasets extracted from the AIDA database, cleaned and formatted for analysis.
+Data: Contains a dataset extracted from the AIDA database, formatted for analysis purposes. Regrettably, due to privacy concerns, we are unable to publish the dataset.
 
 Results: Outputs, including model predictions, evaluation metrics, and visualizations.
-
-Dependencies: Lists required libraries and dependencies for replicating the environment. Users are advised to install dependencies using requirements.txt before running the notebooks.
-
-
-## Note
-
-This project is primarily for visualization purposes. Unfortunately, we cannot publish the dataset due to privacy concerns. If you have any questions or feedback, feel free to reach out to us.
-
-
-This project was a collaborative effort between myself and my colleague @gsarrco. Contributions and feedback from both contributors were instrumental in its completion.
